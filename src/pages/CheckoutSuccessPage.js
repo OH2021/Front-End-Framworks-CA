@@ -1,14 +1,14 @@
 import React, { useEffect } from "react";
-import { useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { useCart } from "../context/CartContext";
 
 export default function CheckoutSuccessPage() {
   const { clearCart } = useCart();
-  const navigate = useNavigate();
 
   useEffect(() => {
     clearCart();
-  }, [clearCart]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []); // Only run once when the component mounts
 
   return (
     <div style={{ textAlign: "center", padding: "3rem" }}>
@@ -16,10 +16,11 @@ export default function CheckoutSuccessPage() {
       <p>
         Thank you for your purchase. Your order has been placed successfully.
       </p>
-
-      <button
+      <Link
+        to="/"
         style={{
           marginTop: "1.5rem",
+          display: "inline-block",
           padding: "0.75rem 1.5rem",
           fontSize: "1rem",
           fontWeight: "bold",
@@ -28,11 +29,11 @@ export default function CheckoutSuccessPage() {
           border: "none",
           borderRadius: "8px",
           cursor: "pointer",
+          textDecoration: "none",
         }}
-        onClick={() => navigate("/")}
       >
         Back to Store
-      </button>
+      </Link>
     </div>
   );
 }
