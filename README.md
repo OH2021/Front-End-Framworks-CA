@@ -111,7 +111,7 @@ However, if you want to propose changes or improvements:
 ## Contact
 
 - GitHub: https://github.com/OH2021  
-- LinkedIn: *([Add your LinkedIn profile link here](https://www.linkedin.com/in/ole-henrik-haug-8a17751b9/))*
+- LinkedIn: *(https://www.linkedin.com/in/ole-henrik-haug-8a17751b9/)*
 
 ---
 
