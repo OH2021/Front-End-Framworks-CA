@@ -1,6 +1,6 @@
 # Front-End-Framworks-CA
 
-![Project Screenshot] <img width="2545" height="1317" alt="ecom-site-screenshot" src="https://github.com/user-attachments/assets/881fed92-c251-489f-862b-a890d3315913" />
+<img width="2545" height="1317" alt="ecom-site-screenshot" src="https://github.com/user-attachments/assets/881fed92-c251-489f-862b-a890d3315913" />
 
 
 A React frontend application built as part of the Front-End Frameworks Core Assignment.
