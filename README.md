@@ -1,4 +1,4 @@
-# Front-End-Framworks-CA
+# JavaScript Frameworks CA
 
 <img width="2545" height="1317" alt="ecom-site-screenshot" src="https://github.com/user-attachments/assets/881fed92-c251-489f-862b-a890d3315913" />
 
