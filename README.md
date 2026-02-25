@@ -18,7 +18,6 @@ The application demonstrates the use of React and related tooling to build an in
 - Built with React
 - Component-driven UI
 - Uses JavaScript and CSS for styling and logic
-- Demonstrates frontend routing (if applicable)
 - Designed for modularity and scalability
 
 ---
