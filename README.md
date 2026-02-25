@@ -100,7 +100,7 @@ It removes the single build dependency from your project and gives full control 
 
 This project was developed as part of a school assignment and is not set up for general external contributions.
 
-However, if you want to propose changes or improvements:
+If you want to propose changes or improvements:
 
 1. Fork the repository
 2. Create a new branch
