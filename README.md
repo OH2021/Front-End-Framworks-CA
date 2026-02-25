@@ -86,9 +86,6 @@ Builds the app for production to the `build` folder.
 
 ### `npm run eject`
 
-**Note:** This is a one-way operation. Once you `eject`, you can’t go back!  
-It removes the single build dependency from your project and gives full control over configuration files.
-
 ---
 
 ## Contributing
