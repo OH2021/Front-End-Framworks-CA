@@ -86,6 +86,8 @@ Builds the app for production to the `build` folder.
 
 ### `npm run eject`
 
+Removes the default configuration abstraction and provides full access to the underlying configuration files and build scripts.
+
 ---
 
 ## Contributing
